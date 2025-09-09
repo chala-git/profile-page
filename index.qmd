@@ -40,7 +40,7 @@ linkcolor: black
 
 ## Bio
 
-I am a 1st year PhD candidate at *Laboratoire Navier - École Nationale des Ponts et Chaussées* and *TotalEnergies*, working at the intersection of generative modeling and geosciences under the supervision of Jean-Michel Pereira, Lina Guayacan, David Picard, Leon Barens and Lionel Boillot.
+I am a 1st year PhD student at *Laboratoire Navier - École Nationale des Ponts et Chaussées* and *TotalEnergies*, working at the intersection of generative modeling and geosciences under the supervision of Jean-Michel Pereira, Lina Guayacan, David Picard, Leon Barens and Lionel Boillot.
 My research focuses on stochastic interpolation techniques for subsurface data, with applications in soil characterization for offshore wind farms. 
 
 Prior to my PhD, I worked as a research engineer at TotalEnergies, where I developed machine learning methods for seismic and well log data analysis and defined my PhD project.
