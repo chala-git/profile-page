@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "pages/curriculum.html",
-    "href": "pages/curriculum.html",
-    "title": "Curriculum",
-    "section": "",
-    "text": "April 2025 - Present : PhD Student, École Nationale des Ponts et Chaussées & TotalEnergies\n\nTopic: Generative modeling for Bayesian interpolation of subsurface data, applied to soil characterization for offshore wind farms.\n\nNovember 2023 - March 2025 : Research Engineer, TotalEnergies\n\nTopic: Machine learning methods for the representation of seismic and well log data in the context of offshore wind farm soil characterization\n\nFebruary 2023-August 2023 : Research Intern, National Institute of Informatics, Tokyo\n\nTopic: Live Comments generation by exploiting audio-visual contexts.\n\n2022 – 2023: Master of Science in Industrial and Applied Mathematics, Université Grenoble Alpes\n\nMajors: Machine Learning, Kernel Methods, Statistical Learning, Deep Learning, Optimization\n\n2020 – 2023: Engineering Degree, Grenoble INP – Ensimag\n\nMajors: Machine Learning, Bayesian Statistics, Functional Analysis, 3D Graphics, Image Analysis, Operations Research\n\n2018 – 2020: CPGE MPSI/MP, Lycée Michel de Montaigne, Bordeaux\n\nFocus: Mathematics, Physics, Computer Science"
-  },
-  {
     "objectID": "pages/teaching.html",
     "href": "pages/teaching.html",
     "title": "Teaching",
@@ -21,6 +14,13 @@
     "text": "The News are that I need TODO the news tab."
   },
   {
+    "objectID": "pages/curriculum.html",
+    "href": "pages/curriculum.html",
+    "title": "Curriculum",
+    "section": "",
+    "text": "April 2025 - Present : PhD Student, École Nationale des Ponts et Chaussées & TotalEnergies\n\nTopic: Generative modeling for stochastic interpolation and inversion of subsurface data, applied to soil characterization for offshore wind farms.\n\nNovember 2023 - March 2025 : Research Engineer, TotalEnergies\n\nTopic: Machine learning methods for the representation of seismic and well log data in the context of offshore wind farm soil characterization\n\nFebruary 2023-August 2023 : Research Intern, National Institute of Informatics, Tokyo\n\nTopic: Live Comments generation by exploiting audio-visual contexts.\n\n2022 – 2023: Master of Science in Industrial and Applied Mathematics, Université Grenoble Alpes\n\nMajors: Machine Learning, Kernel Methods, Statistical Learning, Deep Learning, Optimization\n\n2020 – 2023: Engineering Degree, Grenoble INP – Ensimag\n\nMajors: Machine Learning, Bayesian Statistics, Functional Analysis, 3D Graphics, Image Analysis, Operations Research\n\n2018 – 2020: CPGE MPSI/MP, Lycée Michel de Montaigne, Bordeaux\n\nFocus: Mathematics, Physics, Computer Science"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Julien Lalanne",
@@ -32,21 +32,21 @@
     "href": "index.html#bio",
     "title": "Julien Lalanne",
     "section": "Bio",
-    "text": "Bio\nI am a 1st year PhD student at Laboratoire Navier - École Nationale des Ponts et Chaussées and TotalEnergies, working at the intersection of generative modeling and geosciences under the supervision of Jean-Michel Pereira, Lina Guayacan, David Picard, Leon Barens and Lionel Boillot. My research focuses on stochastic interpolation techniques for subsurface data, with applications in soil characterization for offshore wind farms.\nPrior to my PhD, I worked as a research engineer at TotalEnergies, where I developed machine learning methods for seismic and well log data analysis and defined my PhD project.\nI hold a Master in Applied Mathematics from Université Grenoble Alpes and an engineering degree from Grenoble INP – Ensimag, with a focus in machine learning, statistical modeling, and optimization. My academic journey also includes a research internship at the National Institute of Informatics in Tokyo, where I explored multimodal context analysis for live video comment generation."
+    "text": "Bio\nI am a 2nd year PhD student at Laboratoire Navier - École Nationale des Ponts et Chaussées and TotalEnergies, working at the intersection of generative modeling and geosciences under the supervision of Jean-Michel Pereira, Lina Guayacan, David Picard, Leon Barens and Lionel Boillot. My research focuses on stochastic interpolation and inversion techniques for subsurface data, with applications in soil characterization for offshore wind farms.\nPrior to my PhD, I worked as a research engineer at TotalEnergies, where I developed machine learning methods for seismic and well log data analysis and defined my PhD project.\nI hold a Master in Applied Mathematics from Université Grenoble Alpes and an engineering degree from Grenoble INP – Ensimag, with a focus in machine learning, statistical modeling, and optimization. My academic journey also includes a research internship at the National Institute of Informatics in Tokyo, where I explored multimodal context analysis for live video comment generation."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Julien Lalanne",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research interests lie at the intersection of generative modeling, Bayesian inference and geostatistics, with a particular focus on subsurface data analysis for real-world applications.\n\nGenerative Modeling: Probabilistic and deep generative models for spatial data synthesis and interpolation.\nBayesian Methods: Uncertainty quantification and probabilistic inference in geoscientific applications.\nGeostatistics: Machine learning approaches for seismic and geotechnical data interpretation."
+    "text": "Research Interests\nMy research interests lie at the intersection of generative modeling, Bayesian inference and geostatistics, with a particular focus on subsurface data analysis for real-world applications.\n\nGenerative Modeling: Probabilistic and deep generative models for spatial data synthesis and interpolation.\nBayesian Methods: Uncertainty quantification and probabilistic inference in geoscientific applications.\nGeostatistics: Machine learning approaches for seismic and geotechnical data inversion."
   },
   {
     "objectID": "pages/papers.html",
     "href": "pages/papers.html",
     "title": "Publications",
     "section": "",
-    "text": "A Brief Comparative Analysis of Geostatistics and Deep Learning for Seismic Data Interpolation\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: 86th EAGE Annual Conference & Exhibition\n2025\nLink: EarthDoc\n\nSemantic frame aggregation-based Transformer for live video comment generation\n\nAuthors: Anam Fatima, Yi Yu, Janak Kapuriya, Julien Lalanne and Jainendra Shukla\nJournal/Conference: IEEE Transactions on Multimedia\n2025 \n\nMachine Learning Method Benchmark for Shear Velocity Estimation from Geotechnical Logs\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: Fourth EAGE Digitalization Conference & Exhibition\n2024\nLink: EarthDoc\n\nLiveChat: Video Comment Generation from Audio-Visual Multimodal Contexts\n\nAuthors: Julien Lalanne, Raphael Bournet and Yi Yu\nJournal/Conference: arXiv preprint\n2023"
+    "text": "Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields\n\nAuthors: Julien Lalanne, David Picard, Lionel Boillot, Lina-María Guayacán-Carrillo, Leon Barens, Jean-Michel Pereira\nJournal/Conference: 43rd International Conference on Machine Learning\n2026\nLink: arXiv\n\nA Brief Comparative Analysis of Geostatistics and Deep Learning for Seismic Data Interpolation\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: 86th EAGE Annual Conference & Exhibition\n2025\nLink: EarthDoc\n\nSemantic frame aggregation-based Transformer for live video comment generation\n\nAuthors: Anam Fatima, Yi Yu, Janak Kapuriya, Julien Lalanne and Jainendra Shukla\nJournal/Conference: IEEE Transactions on Multimedia\n2025\nLink: arXiv\n\nMachine Learning Method Benchmark for Shear Velocity Estimation from Geotechnical Logs\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: Fourth EAGE Digitalization Conference & Exhibition\n2024\nLink: EarthDoc\n\nLiveChat: Video Comment Generation from Audio-Visual Multimodal Contexts\n\nAuthors: Julien Lalanne, Raphael Bournet and Yi Yu\nJournal/Conference: arXiv preprint\n2023"
   },
   {
     "objectID": "pages/contact.html",
