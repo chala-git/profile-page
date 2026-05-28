@@ -2,6 +2,13 @@
 title: "Publications"
 ---
 
+
+- **Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields** 
+  - *Authors:* Julien Lalanne, David Picard, Lionel Boillot, Lina-María Guayacán-Carrillo, Leon Barens, Jean-Michel Pereira
+  - *Journal/Conference:* 43rd International Conference on Machine Learning
+  - 2026
+  - *Link:* [arXiv](https://arxiv.org/abs/2605.28625)
+
 - **A Brief Comparative Analysis of Geostatistics and Deep Learning for Seismic Data Interpolation** 
   - *Authors:* Julien Lalanne, Lionnel Boillot and Leon Barens
   - *Journal/Conference:* 86th EAGE Annual Conference & Exhibition
@@ -12,7 +19,7 @@ title: "Publications"
   - *Authors:* Anam Fatima, Yi Yu, Janak Kapuriya, Julien Lalanne and Jainendra Shukla
   - *Journal/Conference:* IEEE Transactions on Multimedia
   - 2025
-  <!-- - *Link:* [PDF](#) -->
+  - *Link:* [arXiv](https://arxiv.org/abs/2510.26978)
 
 - **Machine Learning Method Benchmark for Shear Velocity Estimation from Geotechnical Logs**
   - *Authors:* Julien Lalanne, Lionnel Boillot and Leon Barens

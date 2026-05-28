@@ -3,7 +3,7 @@ title: "Curriculum"
 ---
 
 - **April 2025 - Present : PhD Student, École Nationale des Ponts et Chaussées & TotalEnergies** 
-  - *Topic*: Generative modeling for Bayesian interpolation of subsurface data, applied to soil characterization for offshore wind farms.
+  - *Topic*: Generative modeling for stochastic interpolation and inversion of subsurface data, applied to soil characterization for offshore wind farms.
 
 - **November 2023 - March 2025 : Research Engineer, TotalEnergies** 
   - *Topic*: Machine learning methods for the representation of seismic and well log data in the context of offshore wind farm soil characterization
